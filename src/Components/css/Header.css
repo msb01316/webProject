@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+header {
+    background-color: #0778e9;
+    margin: 0;
+    padding: 15px;
+    height: 60px;
+    background-image: url("../../Images/background.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0em -38em;
+    font-family: 'Dancing Script', cursive;
+}
+  
+h1 {
+    margin: 0;
+    float: left;
+    color: #0778e9;
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 30px;
+}
+  
+button {
+    margin: 0;
+    float: right;
+    background-color: black;
+    color: #0778e9;
+    border-color: black;
+    border-radius: 5px;
+    font-size: 18px;
+}

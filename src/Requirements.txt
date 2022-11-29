@@ -1,0 +1,27 @@
+Components:
+
+- Root (App)
+    - Header (Hunter)
+        - Title (YouPedia)
+        - Login/Sign-Up button (route to View 2)
+        - Logout button (route to Unauthenticated User page)
+
+    - ContentPane (Hunter)
+        - Post (Delete button inside)
+        - NewPost button (with a plus button image to route to View 4)
+
+    - LoginPane (Matthew)
+        - LoginBox (Username and Password entry)
+        - Login button (route to View 3)
+        - Sign-Up button (route to View 2a)
+
+    - CreateAccount (Matthew)
+        - SignUpBox (Username, Password, Confirm Password)
+        - Sign-Up button (route to View 3)
+    
+    - InfoPane (Aniketh)
+        - Image
+        - BDesc (brief description)
+        - Text
+        - Back button (route to View 5)
+        - Publish button (route to View 5 with edits)

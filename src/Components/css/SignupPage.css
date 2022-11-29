@@ -1,0 +1,42 @@
+.signup-page-wrapper {
+    display: flex;
+    background-image: url"../../Images/background.jpg";
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-size: 110%;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+}
+
+.signup-title {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Rasa';
+    
+}
+
+.signup-box {
+    border-style: dashed;
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 100px;
+    text-align: left;
+    min-width: 20%;
+    
+}
+
+#submit-button {
+    padding: 10px;
+    font-size: 110%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-container {
+    margin-top: 80px;
+}

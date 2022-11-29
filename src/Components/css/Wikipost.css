@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.post {
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    color: #0778e9;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    position: relative;
+}
+
+p {
+    width: 240px;
+    margin: 5px 5px 10px 5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.delbut {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: red;
+    color: black;
+    border: 0px;
+    border-radius: 0px;
+}
+
+.delbut:active {
+    background-color: darkred;
+}
